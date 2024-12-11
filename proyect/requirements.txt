@@ -1,0 +1,6 @@
+google-cloud-aiplatform[langchain,reasoningengine]
+cloudpickle==3.0.0
+pydantic==2.7.4
+langgraph
+httpx
+flask
